@@ -1,2 +1,3 @@
 # Demo
-this is my learning git repository
+This is my learning Git Repository
+Author - divyanshu Verma 

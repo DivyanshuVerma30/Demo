@@ -10,4 +10,7 @@ taking time
 continuing
 <br>
 trying
+<br>
+learning daily
+
 
